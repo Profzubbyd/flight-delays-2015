@@ -17,7 +17,7 @@ This repository contains an in-depth analysis of flight delay patterns across ma
 
 ## Repository Contents
 
-- **data/**: Contains the raw and processed datasets with delay information for U.S. airports.
-- **models/**: Contains the code for multilevel models, including model selection and fit statistics.
+- **data**: Contains the raw and processed datasets with delay information for U.S. airports.
+- **models**: Contains the code for multilevel models, including model selection and fit statistics.
 - **visualizations/**: Generated visualizations, including heatmaps, bar charts, and maps, illustrating the findings.
 - **README.md**: Project overview, setup instructions, and findings.
