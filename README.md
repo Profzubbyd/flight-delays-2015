@@ -14,10 +14,3 @@ This repository contains an in-depth analysis of flight delay patterns across ma
 1. **High Delays in Certain Airports**: Airports like Chicago O'Hare (ORD) and Atlanta (ATL) experienced the highest average delay durations, with delays peaking above 5,000 hours.
 2. **Impact of On-Time Flights**: There is a positive association between on-time, diverted, canceled flights and delay hours, suggesting that things affecting other flights may contribute to longer delays.
 3. **Monthly Trends**: The interaction between on-time flights and month indicates that this association diminishes over time, possibly reflecting operational adjustments or seasonal effects.
-
-## Repository Contents
-
-- **data**: Contains the raw and processed datasets with delay information for U.S. airports.
-- **models**: Contains the code for multilevel models, including model selection and fit statistics.
-- **visualizations/**: Generated visualizations, including heatmaps, bar charts, and maps, illustrating the findings.
-- **README.md**: Project overview, setup instructions, and findings.
